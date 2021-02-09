@@ -1,9 +1,6 @@
-# Explore-Wethear-Trend
+
 Udacity Data Analyst Nanodegree  - Project 1
 
-# Explore Weather Trends
-
-### Udacity Data Analyst Nanodegree - Project 1
 
 ### Summary
 
