@@ -1,4 +1,4 @@
-# Explore-wether-trend
+# Explore-Wethear-trend
 Udacity Data Analyst Nanodegree  - Project 1
 
 
